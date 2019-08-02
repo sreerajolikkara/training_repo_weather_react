@@ -1,0 +1,11 @@
+.text-center
+{
+    margin-left:500px !important;
+}
+
+.text-center{
+    position:sticky;
+}
+/* .mx-auto{
+    width:200px !important;
+} */
